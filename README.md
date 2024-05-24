@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **V1nnyd3v/V1nnyd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
