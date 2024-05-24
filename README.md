@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# about.md
 <img align="center" width=100% src="https://cdn.discordapp.com/attachments/1211474044117848072/1243579776489361570/image.png?ex=6651fd6b&is=6650abeb&hm=e455ef82a72388b9588204fa1c2b88ce5aecefff55a5ff13f9e9ec0f0eb4915b&"/>
 &nbsp;&nbsp;&nbsp;
 
