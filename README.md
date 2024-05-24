@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">Como desenvolvedor web freelancer, sou especializado na criação de sites, landing pages, lojas online e outros tipos de plataformas. Tenho um forte foco em <strong>HTML, CSS, JavaScript e WordPress</strong>, e sou apaixonado por proporcionar experiências centradas no <strong>usuário</strong> enquanto utilizo a <strong>tecnologia para desenvolver soluções de alta qualidade.</strong></p>&nbsp;
 
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1nnyd3v&show_icons=true&theme=dracula&layout=compact" />
+
 &nbsp;
 &nbsp;
 
