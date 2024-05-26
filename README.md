@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" width=100% src="https://cdn.discordapp.com/attachments/1211474044117848072/1244326031477837864/image.png?ex=6654b46c&is=665362ec&hm=effcb7432a99377d4e1defaf5789efd273fcd6f4e4fefce96817bf535eb3a365&"/>
+<img align="center" width=100% src="https://cdn.discordapp.com/attachments/1211474044117848072/1244326847810899989/image.png?ex=6654b52e&is=665363ae&hm=2e3be64ecdc62403494a1fc4a7f17c7df96522620bf7fd986168ea23fd21198a&"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Como desenvolvedor web freelancer, sou especializado na criação de sites, landing pages, lojas online e outros tipos de plataformas. Tenho um forte foco em <strong>HTML, CSS, JavaScript e WordPress</strong>, e sou apaixonado por proporcionar experiências centradas no <strong>usuário</strong> enquanto utilizo a <strong>tecnologia para desenvolver soluções de alta qualidade.</strong></p>&nbsp;
